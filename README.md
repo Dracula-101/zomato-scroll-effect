@@ -8,8 +8,9 @@ A Flutter implementation of the Zomato app's elegant scroll effect where the app
 - Pinned app bar effect similar to Zomato food delivery app
 - Smooth transitions and animations
 
-<!-- download the app button -->
-![Download App](docs/app-release.apk)
+https://github.com/user-attachments/assets/c9a07958-bb4f-40d3-a392-f482fc230309
+
+![Download App](https://github.com/Dracula-101/zomato-scroll-effect/blob/master/docs/app-release.apk)
 
 ## How It Works
 
