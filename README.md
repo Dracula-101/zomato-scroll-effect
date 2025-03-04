@@ -10,7 +10,7 @@ A Flutter implementation of the Zomato app's elegant scroll effect where the app
 
 https://github.com/user-attachments/assets/c9a07958-bb4f-40d3-a392-f482fc230309
 
-![Download App](https://github.com/Dracula-101/zomato-scroll-effect/blob/master/docs/app-release.apk)
+[![Download App](https://custom-icon-badges.demolab.com/badge/-Download-blue?style=for-the-badge&logo=download&logoColor=white "Download App")](https://github.com/Dracula-101/zomato-scroll-effect/blob/master/docs/app-release.apk)
 
 ## How It Works
 
